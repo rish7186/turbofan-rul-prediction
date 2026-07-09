@@ -6,6 +6,13 @@ The project uses the **NASA C-MAPSS FD001 dataset**, compares multiple regressio
 
 ---
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+👉 [Open Turbofan RUL Prediction App](https://turbofan-rul-prediction-bcigmepktmewjn5c8e8iv5.streamlit.app/)
+
+
 ## 📌 Project Overview
 
 Unexpected engine failures can lead to high maintenance costs, operational downtime, and safety risks. Predictive maintenance aims to estimate equipment degradation before failure occurs.
